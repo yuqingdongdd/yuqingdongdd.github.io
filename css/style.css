@@ -2043,3 +2043,8 @@ h1, h2, h3, h4, h5, h6 {
 .search-form input {
   font-family: "Noto Serif SC", "Merriweather", "Noto Serif", "Georgia", "宋体", serif !important;
 }
+
+.post-archive,
+.post-archive * {
+  font-family: "Noto Serif SC", "Songti SC", "SimSun", serif !important;
+}
