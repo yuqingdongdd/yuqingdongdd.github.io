@@ -2023,14 +2023,14 @@ html,
 label,
 input,
 textarea {
-  font-family: "source-han-serif-sc", "Merriweather", "Noto Serif", "Georgia", "宋体", serif !important;
+  font-family: "Noto Serif SC", "Merriweather", "Noto Serif", "Georgia", "宋体", serif !important;
 }
 
 #logo,
 .site-name h1,
 .post-title,
 h1, h2, h3, h4, h5, h6 {
-  font-family: "source-han-serif-sc", "Merriweather", "Noto Serif", "Georgia", "宋体", serif !important;
+  font-family: "Noto Serif SC", "Merriweather", "Noto Serif", "Georgia", "宋体", serif !important;
 }
 
 #sidebar,
@@ -2041,5 +2041,5 @@ h1, h2, h3, h4, h5, h6 {
 #sidebar a,
 .category-list-count,
 .search-form input {
-  font-family: "source-han-serif-sc", "Merriweather", "Noto Serif", "Georgia", "宋体", serif !important;
+  font-family: "Noto Serif SC", "Merriweather", "Noto Serif", "Georgia", "宋体", serif !important;
 }
