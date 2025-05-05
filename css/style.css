@@ -2044,7 +2044,15 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Noto Serif SC", "Merriweather", "Noto Serif", "Georgia", "宋体", serif !important;
 }
 
+*:not(.fa):not([class^=fa-]):not([class*=" fa-"]) {
+  font-family: "Noto Serif SC", "Songti SC", "SimSun", serif !important;
+}
+
 .post-archive,
-.post-archive * {
+.post-archive *,
+.archive-title,
+.archive-title *,
+.archive-page,
+.archive-page * {
   font-family: "Noto Serif SC", "Songti SC", "SimSun", serif !important;
 }
